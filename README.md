@@ -4,4 +4,6 @@
 through the FunList tool you can give the path of any 'DLL' file and this program will list all the functions that can be called using this 'DLL' file ,and that file is located in the 'System32' folder then you don't have to type the whole path of the file you just have to check the 'System32' checkbox and then
 enter the name of the file and the program will do the rest.
 
+![alt text](https://1.bp.blogspot.com/-27fwwZE0bQE/X-pZnFV07QI/AAAAAAAAADg/0ucs0t8NayIpSb9YD7z1Y-dccp_EP0k8gCLcBGAsYHQ/w640-h494/funlist.PNG "Screenshot")
+
 [My Website](https://screenware.blogspot.com)
